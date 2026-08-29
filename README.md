@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+
+https://sajal-mediguide-ai-project.streamlit.app/
 # MediGuide AI
 
 An educational Streamlit + LangChain prototype that gathers basic patient
